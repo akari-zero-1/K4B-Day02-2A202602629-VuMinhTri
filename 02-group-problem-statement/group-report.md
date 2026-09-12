@@ -12,9 +12,7 @@
 | 4   | Nguyễn Đình Thái | 2A202602718  | Research                                                         |
 | 5   | Dương Đình Long  | 2A202602474  | Writer                                                           |
 
-**Candidate problem nhóm chọn (1 câu):**
-
-- Thiết kế giáo án và xuất file quiz Excel theo đúng template để import vào hệ thống quiz cho học sinh.
+**Candidate problem nhóm chọn (1 câu):** Mất nhiều thời gian trong thiết kế giáo án và tạo bài tập cho học sinh.
 
 ---
 
@@ -22,13 +20,13 @@
 
 ### 3.1. Trình bày top 3 mỗi người (mỗi candidate 1-2 phút)
 
-| #   | Người đưa ra     | Candidate problem                                                                                                                                  | Người gặp vấn đề                                      | Điểm nghẽn                                                                                                                                             | Cảm nhận nhanh của nhóm                                                                                                                                           |
+| #   | Người đưa ra     | Candidate problem   | Người gặp vấn đề  | Điểm nghẽn  | Cảm nhận nhanh của nhóm  |
 | --- | ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | Vũ Minh Trí      | Thông tin về lịch học, deadline và nhiệm vụ nằm rải rác ở nhiều kênh nên phải tự tổng hợp thành danh sách việc cần làm.                            | Bản thân tôi hoặc học viên trong chương trình         | Thông tin phân tán trên Discord, Outlook và MS Teams; phải chuyển qua nhiều nền tảng, tự lọc rồi ghi chú thủ công, mất khoảng 70-90 phút/tuần.         | Workflow lặp lại hằng ngày, impact đo được và có nguy cơ bỏ sót deadline; cần kiểm tra khả năng truy cập dữ liệu từ cả ba nền tảng.                               |
 | 2   | Vũ Minh Trí      | Khi tìm tài liệu học GenAI, tôi phải tìm kiếm trên nhiều nguồn khác nhau rồi tự đánh giá tài liệu nào phù hợp với trình độ hiện tại.               | Bản thân tôi                                          | Mất nhiều thời gian để lọc, so sánh chất lượng, độ mới và mức độ phù hợp của tài liệu, khoảng 1-2 giờ/tuần.                                            | Có thể dùng Workflow để đề xuất và tóm tắt tài liệu, nhưng vẫn cần người kiểm tra nguồn và chất lượng để tránh đề xuất sai.                                       |
 | 3   | Vũ Minh Trí      | Có nhiều việc cần thực hiện trong ngày nên tôi phải tự sắp xếp và điều chỉnh lịch học GenAI, làm bài, học tiếng Anh, theo dõi thông báo và đi học. | Bản thân tôi                                          | Khó ưu tiên và phân bổ thời gian khi có nhiều công việc hoặc lịch thay đổi; phải lập hoặc điều chỉnh kế hoạch 4-5 ngày/tuần.                           | Workflow dễ vẽ và đo bằng thời gian hoàn thành, nhưng cần kiểm chứng liệu nguyên nhân chính là thiếu công cụ hay lịch thay đổi thường xuyên.                      |
 | 4   | Trịnh Quốc Hoàng | Giáo viên mất nhiều thời gian soạn tin nhắn nhận xét cá nhân hóa gửi phụ huynh; nội dung dễ lặp lại và phải cân nhắc từ ngữ cho từng học sinh.     | Bản thân tôi, Học sinh, Phụ huynh                     | Soạn và điều chỉnh câu chữ cho từng học sinh mất khoảng 10-15 phút/bài.                                                                                | Impact cao, giải quyết pain point thật về giao tiếp với phụ huynh; cần chuẩn hóa định dạng đầu vào.                                                               |
-| 5   | Trịnh Quốc Hoàng | Giáo viên phải thiết kế giáo án và copy-paste thủ công câu hỏi, đáp án vào đúng template Excel để import lên hệ thống quiz.                        | Bản thân tôi, Học sinh                                | Nhập và định dạng thủ công dữ liệu quiz theo cột của file Excel.                                                                                       | Workflow rõ ràng, dễ đo lường và có tính ứng dụng thực tế cao; cần kiểm soát câu hỏi quá dễ hoặc nội dung AI bịa.                                                 |
+| 5   | Trịnh Quốc Hoàng | Mất nhiều thời gian trong thiết kế giáo án và tạo bài tập cho học sinh      | Bản thân tôi, Học sinh.                                | Nhập và định dạng thủ công dữ liệu quiz theo cột của file Excel.                                                                                       | Workflow rõ ràng, dễ đo lường và có tính ứng dụng thực tế cao; cần kiểm soát câu hỏi quá dễ hoặc nội dung AI bịa.                                                 |
 | 6   | Trịnh Quốc Hoàng | Developer phải dừng công việc để tắt WSL, nén ổ ảo VHDX và dọn dẹp thủ công từng phân vùng khi môi trường WSL2/Docker báo đầy dung lượng.          | Bản thân tôi                                          | Dọn dẹp dung lượng nhiều bước, thủ công và làm gián đoạn công việc.                                                                                    | Bài toán kỹ thuật thuần túy, phù hợp hơn với script automation hoặc cron job thay vì đầu tư tài nguyên AI.                                                        |
 | 7   | Dương Đình Long  | Tìm lại thông tin đã từng có: link, tài khoản, repo, thông tin server, tài liệu...                                                                 | IT/Web, người quản lý nhiều dự án                     | Thông tin nằm rải rác ở nhiều công cụ → mất thời gian nhớ đã lưu ở đâu và tìm lại                                                                      | Pain lặp lại trong công việc quản lý nhiều dự án; workflow có thể đo bằng thời gian tìm kiếm và số lần phải hỏi lại.                                              |
 | 8   | Dương Đình Long  | Việc phát sinh chưa làm ngay dễ bị quên, sau đó phải nhớ lại và sắp xếp                                                                            | Người có nhiều task phát sinh                         | Không ghi nhận ngay → quên context → phải khôi phục lại việc cần làm                                                                                   | Pain liên quan đến ghi nhận và khôi phục context; cần làm rõ tần suất quên và mức độ ảnh hưởng đến deadline.                                                      |
@@ -55,7 +53,7 @@
 | --------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------- |
 | #1 Vũ Minh Trí — Tổng hợp lịch học, deadline và nhiệm vụ  | Actor rõ; workflow lặp lại hằng ngày qua Discord, Outlook và MS Teams; đã có baseline 70-90 phút/tuần và mục tiêu giảm còn 20-30 phút/tuần.                                    | Chưa chắc cả ba nền tảng đều cho phép lấy dữ liệu tự động; cần kiểm tra quyền truy cập và nguy cơ AI bỏ sót deadline.               |
 | #4 Trịnh Quốc Hoàng — Soạn nhận xét gửi phụ huynh         | Pain tác động trực tiếp đến giáo viên, học sinh và phụ huynh; bottleneck rõ ở việc soạn câu chữ cá nhân hóa 10-15 phút/bài; có thể thử Workflow với bước review của giáo viên. | Chưa có tần suất tổng số bài và tiêu chí đo chất lượng tin nhắn; cần chuẩn hóa dữ liệu đầu vào và kiểm soát nội dung không phù hợp. |
-| #5 Trịnh Quốc Hoàng — Thiết kế giáo án và xuất quiz Excel | Workflow copy-paste vào template Excel rõ ràng; output dễ kiểm tra theo cột; có thể so sánh Rule/Workflow/Agent và đo số bước nhập liệu thủ công.                              | Chưa có baseline thời gian và cần kiểm tra chất lượng câu hỏi, tránh câu quá dễ hoặc đáp án do AI tạo bị sai.                       |
+| #5 Trịnh Quốc Hoàng — Thiết kế giáo án và bài tập | Workflow copy-paste vào template Excel rõ ràng; output dễ kiểm tra theo cột; có thể so sánh Rule/Workflow/Agent và đo số bước nhập liệu thủ công.                              | Chưa có baseline thời gian và cần kiểm tra chất lượng câu hỏi, tránh câu quá dễ hoặc đáp án do AI tạo bị sai.                       |
 
 ### 3.4. Score để đồng thuận (chấm 1-5, ép nói rõ vì sao cho 5 / cho 3)
 
@@ -63,12 +61,12 @@
 | --------------------------------------------------------- | -------: | ----------: | ---------------: | -------------: | ------------: | -----------------: | ---------------: | ---: |
 | #1 Vũ Minh Trí — Tổng hợp lịch học, deadline và nhiệm vụ  |        5 |           5 |                5 |              5 |             4 |                  5 |                4 |   33 |
 | #4 Trịnh Quốc Hoàng — Soạn nhận xét gửi phụ huynh         |        5 |           4 |                3 |              5 |             5 |                  5 |                4 |   31 |
-| #5 Trịnh Quốc Hoàng — Thiết kế giáo án và xuất quiz Excel |        5 |           5 |                4 |              5 |             5 |                  5 |                5 |   34 |
+| #5 Trịnh Quốc Hoàng — Thiết kế giáo án và bài tập |        5 |           5 |                4 |              5 |             5 |                  5 |                5 |   34 |
 
 **Candidate nhóm chọn (1 bài duy nhất):**
 
 ```text
-#5 — Thiết kế giáo án và xuất file quiz Excel theo đúng template để import vào hệ thống quiz cho học sinh.
+#5 — Thiết kế giáo án và tạo bài tập.
 ```
 
 **Vì sao chọn (4-5 câu):**
