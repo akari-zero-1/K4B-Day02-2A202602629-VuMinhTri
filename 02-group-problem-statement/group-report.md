@@ -14,6 +14,8 @@
 
 **Candidate problem nhóm chọn (1 câu):**
 
+- Thiết kế giáo án và xuất file quiz Excel theo đúng template để import vào hệ thống quiz cho học sinh.
+
 ---
 
 ## Phase 3 — Group Convergence: từ 9-12 candidates về 1
